@@ -4,7 +4,7 @@
 **Swapify** is a decentralized exchange (DEX) platform where users can create their own liquidity pools, manage liquidity, and swap tokens.
 
 ## Video Demo
-*Video to be added soon.*
+[![Watch the video](https://img.youtube.com/vi/your_video_id/0.jpg)](https://drive.google.com/file/d/1RraW589E979h74nq7WuBP0e13Kas57HI/view?usp=sharing)
 
 ## Features
 
@@ -57,3 +57,6 @@ All contracts were thoroughly tested using Hardhat in the `Backend/test` directo
 
 6. **Deployment challenges**  
    - Running two servers simultaneously (local Hardhat chain and the main backend server) complicated the deployment process.
+
+7. **Cross-Chain**
+   - Lack of time and multiple local chain were difficult to handle.
