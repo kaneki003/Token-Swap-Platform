@@ -36,7 +36,7 @@ All contracts were thoroughly tested using Hardhat in the `Backend/test` directo
 
 ## Architecture
 
-![Architecture](https://drive.google.com/file/d/1NVD9LjCYg0cM0aOXQJodKb0rTUO3Ex4D/view?usp=sharing)
+![Architecture](https://freeimage.host/i/dbSzLcF))
 
 ## Challenges
 
