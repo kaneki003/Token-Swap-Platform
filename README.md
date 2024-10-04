@@ -36,7 +36,7 @@ All contracts were thoroughly tested using Hardhat in the `Backend/test` directo
 
 ## Architecture
 
-![Architecture](https://freeimage.host/i/dbSzLcF))
+![Architecture](https://iili.io/dbSzLcF.png)
 
 ## Challenges
 
